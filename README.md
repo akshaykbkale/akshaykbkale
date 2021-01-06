@@ -8,7 +8,7 @@ Computer Science Masters student @ The University of Texas at Dallas.
 
 Connect with me:
 ---
-- 📫 Mail: akshaykale@outlook.com
+- 📫 Mail: akshaykale3219@outlook.com
  
 Languages and Tools:
 ---
