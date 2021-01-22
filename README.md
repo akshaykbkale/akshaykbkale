@@ -3,7 +3,7 @@
 Computer Science Masters student @ The University of Texas at Dallas.
 ---
 - 🌱 I’m currently building web application to help students to find housing and sell products.
-- 💻 Looking for in Software Engineering Full time roles.
+- 💻 Looking for Software Engineering Full time roles.
 - 🥅 2020 Goals: To learn how contribute to Open Source projects.
 
 Connect with me:
