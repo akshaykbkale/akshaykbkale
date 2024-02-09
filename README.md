@@ -1,14 +1,24 @@
-## Hi there,I am Akshay 👋
-
-Computer Science Masters student @ The University of Texas at Dallas.
+## Hey 👋
+- Call me Akshay!
+- Coder, Ultimate frisbee, Badminton
+  
+Work
 ---
-- 🌱 I’m currently building web application to help students to find housing and sell products.
-- 💻 Looking for Software Engineering Full time roles.
-- 🥅 2020 Goals: To learn how contribute to Open Source projects.
+- Software Engineer II @7-Eleven, Ex-Amazon
+
+Academics
+---
+- Masters in Computer Science @ The University of Texas at Dallas, TX, USA
+- Electronics And Communication Engineering @ BMS College of Engineering, Bangalore, India
+
+Goals
+---
+- 🥅 2024 Goals: To learn how contribute to Open Source projects.
+- Get healthier than 2023
 
 Connect with me:
 ---
-- 📫 Mail: akshaykale3219@outlook.com
+- 📫 Mail: akshaykbkale@gmail.com
  
 Languages and Tools:
 ---
